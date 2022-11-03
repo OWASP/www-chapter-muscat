@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Muscat
-tags: example-tag
+tags: kerala chapter india
 region: Asia
 meetup-group:owasp-muscat
 
@@ -14,6 +14,8 @@ Security, Social Engineering, Digital Regulations, Mobile
 Vulnerabilities and so forth to make mindfulness connected with software
 security in the general public. The chapter presents open doors to the
 software community in contributing to secure application development. OWASP also provides speakers to Computer Society of Oman for technical sessions related to application security they organize.
+
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
