@@ -17,7 +17,7 @@ OWASP provides speakers to Institution of Engineers for Wednesday technical talk
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Conferences?
+Would you like to speak on the upcoming OWASP Chapter meet?
 
 ### Call for Papers (CFP) is NOW OPEN
 
