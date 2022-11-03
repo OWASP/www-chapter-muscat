@@ -1,7 +1,7 @@
 ---
-title: Upcoming-Events
+title: Example
 layout:  null
 tab: true
 order: 1
-tags: upcoming-event
+tags: Example
 ---
