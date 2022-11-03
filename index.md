@@ -24,4 +24,4 @@ Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
 Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
 
-Please submit your Profile and the paper abstract here **[OWASP CFP]()**
+Please submit your Profile and the paper abstract here **[OWASP CFP](https://forms.gle/BwvbkkPuLub5qW2a7)**
