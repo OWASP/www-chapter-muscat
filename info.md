@@ -4,6 +4,6 @@
 * Muscat, Oman
 
 ### Social Links
-* [Meetup](#)
+* [LinkedIn](https://www.linkedin.com/company/owasp-muscat/)
 
 
