@@ -17,7 +17,7 @@ OWASP provides speakers to Institution of Engineers for Wednesday technical talk
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
+Would you like to speak on the upcoming OWASP Conferences?
 
 ### Call for Papers (CFP) is NOW OPEN
 
