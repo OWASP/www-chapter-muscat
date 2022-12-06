@@ -4,7 +4,7 @@ title: OWASP Muscat
 tags: muscat chapter oman
 level: 4
 region: Asia
-meetup-group: owasp-muscat
+meetup-group: muscat-owasp-meetup-group
 country: Oman
 postal-code: PC 112
 
@@ -21,4 +21,4 @@ Would you like to speak on the upcoming OWASP Chapter meet?
 
 ### Call for Papers (CFP) is NOW OPEN
 
-Please submit your Profile and the paper abstract here **[OWASP CFP](https://forms.gle/BwvbkkPuLub5qW2a7)**
+Please submit your Profile and the paper abstract here **[OWASP CFP]
