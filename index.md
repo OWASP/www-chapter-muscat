@@ -21,4 +21,4 @@ Would you like to speak on the upcoming OWASP Chapter meet?
 
 ### Call for Papers (CFP) is NOW OPEN
 
-Please submit your Profile and the paper abstract here **[OWASP CFP]
+Please submit your Profile and the paper abstract here **[OWASP CFP](mailto:ananthakrishnan.krishnakumarsreeja@owasp.org)
