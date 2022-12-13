@@ -4,8 +4,7 @@ layout: col-sidebar
 title: OWASP Muscat
 tags: muscat chapter oman
 region: Asia
-meetup-group:muscat-owasp-meetup-group
-
+meetup-group: muscat-owasp-meetup-group
 
 ---
 
